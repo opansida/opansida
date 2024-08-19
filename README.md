@@ -1,8 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=0D6A4F&height=120&section=header)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1001&color=36A162&background=9FA3AA00&center=true&vCenter=true&multiline=true&width=435&lines=Hey%2C+Hey+!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1001&color=36A162&background=9FA3AA00&center=true&vCenter=true&multiline=true&width=435&lines=This+is+Sida+Pan+.)](https://git.io/typing-svg)
-
-
 
 
 💊 Background in pharmaceutical manufacturing and clinical trials.
@@ -13,9 +14,10 @@
 
 
 
-🛠️ Languages and Tools: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opansida&theme=shadow_green&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opansida&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opansida&theme=shadow_green&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opansida&layout=compact)
 
 
 [![opansida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=opansida&theme=github-compact)](https://github.com/opansida/github-readme-activity-graph)
