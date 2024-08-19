@@ -6,6 +6,7 @@
 
 
 💊 Background in pharmaceutical manufacturing and clinical trials.
+
 💻 Currently transitioning into software development.
 
 
