@@ -15,12 +15,12 @@
 
 🛠️ Languages and Tools: 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opansida&theme=shadow_green&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opansida&layout=compact)
+
+
 [![opansida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=opansida&theme=github-compact)](https://github.com/opansida/github-readme-activity-graph)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opansida&theme=shadow_green&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opansida)
 
 
 
