@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1001&color=36A162&background=9FA3AA00&center=true&vCenter=true&multiline=true&width=435&lines=Hey%2C+Hey+!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1001&color=36A162&background=9FA3AA00&center=true&vCenter=true&multiline=true&width=435&lines=This+is+Sida+Pan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1001&color=36A162&background=9FA3AA00&center=true&vCenter=true&multiline=true&width=435&lines=This+is+Sida+Pan+.)](https://git.io/typing-svg)
 
 
 
