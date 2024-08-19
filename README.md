@@ -19,6 +19,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opansida&theme=shadow_green&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opansida&layout=compact)
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=opansida" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=opansida" />
+</div>
+
 
 [![opansida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=opansida&theme=github-compact)](https://github.com/opansida/github-readme-activity-graph)
 
