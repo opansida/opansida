@@ -11,6 +11,7 @@
 💻 Currently transitioning into software development.
 
 
+![](https://raw.githubusercontent.com/opansida/opansida/main/dist/github-contribution-grid-snake.svg)
 
 
 
