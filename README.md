@@ -1,4 +1,4 @@
-🚀  Hey there! ![visitors](https://visitor-badge.glitch.me/badge?page_id=opansida&left_color=green&right_color=grey)
+🚀  Hey there! https://visitor-badge.glitch.me/badge?page_id=opansida.visitor-badge
 
 
 
