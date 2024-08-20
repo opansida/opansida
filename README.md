@@ -20,7 +20,7 @@
 - - -
 ### Project
 
-- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):** An iOS app for managing and reviewing flashcards.
+- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):** An iOS app for use flashcards learning knowledge.
 
 
 
