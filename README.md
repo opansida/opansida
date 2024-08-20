@@ -10,9 +10,10 @@
 
 ## About
 
-💊 **Background:**  Pharmaceutical manufacturing and clinical trials  
-💻 **Currently:**  Transitioning into software development  
-🔭 **Looking for:**  Opportunities in software development
+💊 **Background:**  Pharmaceutical manufacturing and clinical trials. 
+💻 **Currently:**  Transitioning into software development.  
+🔭 **Looking for:** Opportunities to apply my skills in IT and software development through internships or entry-level roles, with a focus on learning and growth.
+
 
 - - -
 
