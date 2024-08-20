@@ -14,7 +14,7 @@
 
 💻 **Currently:**  Transitioning into software development.  
 
-🔭 **Looking for:** Internships or full-time positions in IT and software development, where I can leverage my technical skills, passion for coding, and background in pharmaceuticals to drive innovative solutions.
+🔭 **Looking for:** Internships or full-time positions in IT and software development, where I can leverage my technical skills and passion for coding to drive innovative solutions.
 
 
 - - -
