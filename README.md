@@ -11,15 +11,22 @@
 ## About
 
 💊 **Background:**  Pharmaceutical manufacturing and clinical trials. 
+
 💻 **Currently:**  Transitioning into software development.  
+
 🔭 **Looking for:** Opportunities to apply my skills in IT and software development through internships or entry-level roles, with a focus on learning and growth.
+
+- - -
+### Project
+
+- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):** An iOS app for managing and reviewing flashcards.
+
+
+
 
 
 - - -
-
-
 ## Tech Stack
-
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=express,html,java,js,nodejs,mysql,postgres,react,postman,py,git,docker,css," />
@@ -30,7 +37,6 @@
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opansida&theme=shadow_green&show_icons=true) 
-
 
 - - -
 
