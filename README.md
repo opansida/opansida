@@ -20,7 +20,8 @@
 - - -
 ### Project
 
-- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):** An iOS app for use flashcards learning knowledge.
+- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):** An iOS app designed for efficient learning through flashcards, enabling users to create, manage, and study flashcards to enhance their knowledge.
+
 - **[🌍 Currency Crusher](https://github.com/opansida/currency-crusher):** A real-time currency conversion tool with a React frontend and an Express backend, utilizing the ExchangeRate-API for accurate rates.
 
 
