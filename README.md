@@ -20,10 +20,37 @@
 - - -
 ### Project
 
-- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):** An iOS app designed for efficient learning through flashcards, enabling users to create, manage, and study flashcards to enhance their knowledge.
+- **[ BankEase App](https://github.com/opansida/bankease):**
 
-- **[🌍 Currency Crusher](https://github.com/opansida/currency-crusher):** A real-time currency conversion tool with a React frontend and an Express backend, utilizing the ExchangeRate-API for accurate rates.
+This project is built using the following technologies:
 
+Next.js: A React framework for building fast and scalable web applications.
+
+Tailwind CSS: A utility-first CSS framework for styling the app.
+
+Drizzle ORM: A lightweight TypeScript ORM for managing database schema and queries.
+
+PostgreSQL: A powerful, open-source relational database system used to store data.
+
+Clerk: For user authentication, registration, and profile management.
+
+Sonner: For toast notifications across the app.
+
+Neon: A serverless PostgreSQL hosting platform.
+
+ExchangeRate-API: Used for fetching real-time currency conversion rates.
+
+Chart.js: For creating interactive data visualizations in the dashboard.
+
+
+- **[📱 Flashcard iOS App](https://github.com/opansida/flashcard):**
+
+Technologies
+React Native: Frontend for building a responsive cross-platform mobile app.
+
+Express: Backend framework handling API requests and business logic.
+
+Xata PostgreSQL: Database for storing user data, flashcard content, and metadata.
 
 
 
